@@ -9,7 +9,7 @@ export default function participate() {
 
 
     return (
-        <div className="participate" id="participate">
+        <div>
             <div className="container">
                 <div className="subject">
                     <h2> Choose a <span>coin</span> and participate in <span>X2</span> event </h2>
